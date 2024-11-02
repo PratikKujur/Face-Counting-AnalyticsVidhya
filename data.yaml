@@ -1,0 +1,5 @@
+names:
+- face
+nc: 1
+train: d:\100devMl\Projects\Face-Counting-AnalyticsVidhya\dataset\images\train
+val: d:\100devMl\Projects\Face-Counting-AnalyticsVidhya\dataset\images\val
